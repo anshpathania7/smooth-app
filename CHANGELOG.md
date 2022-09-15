@@ -1,5 +1,25 @@
 # Changelog
 
+## [3.18.0](https://github.com/openfoodfacts/smooth-app/compare/v3.17.0...v3.18.0) (2022-09-15)
+
+
+### Features
+
+* [#3013](https://github.com/openfoodfacts/smooth-app/issues/3013) - asset file utz-certified.90x90.svg ([#3015](https://github.com/openfoodfacts/smooth-app/issues/3015)) ([6a11349](https://github.com/openfoodfacts/smooth-app/commit/6a1134908e302f48c97cd2d763f3139647a2e9a8))
+* Allow to change the camera mode without restarting ([#3008](https://github.com/openfoodfacts/smooth-app/issues/3008)) ([acb5fac](https://github.com/openfoodfacts/smooth-app/commit/acb5fac58111b1f26b08be3b5ed6514fa5577e9e))
+
+
+### Bug Fixes
+
+* Goldens update darkmode status ([#3016](https://github.com/openfoodfacts/smooth-app/issues/3016)) ([1d5abac](https://github.com/openfoodfacts/smooth-app/commit/1d5abac606497f2ffad87f1d420142ee76fa9552))
+
+
+### Miscellaneous
+
+* **deps:** bump crowdin/github-action from 1.4.12 to 1.4.13 ([#3014](https://github.com/openfoodfacts/smooth-app/issues/3014)) ([eb66aad](https://github.com/openfoodfacts/smooth-app/commit/eb66aad274dda48e197514d8fe58a5f3863754f5))
+* New Crowdin translations ([#3000](https://github.com/openfoodfacts/smooth-app/issues/3000)) ([d61596e](https://github.com/openfoodfacts/smooth-app/commit/d61596ea990014d2e8c9cd260c585cd994af602d))
+* New Crowdin translations ([#3007](https://github.com/openfoodfacts/smooth-app/issues/3007)) ([706247f](https://github.com/openfoodfacts/smooth-app/commit/706247f0d20edee8c96b8a12aff6efa40d59fc36))
+
 ## [3.17.0](https://github.com/openfoodfacts/smooth-app/compare/v3.16.0...v3.17.0) (2022-09-11)
 
 
